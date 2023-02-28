@@ -1,0 +1,25 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+U
+%src/test/java/pages/OverviewPage.java,b\9\b98ce744ade6a47c2e5177ee066c8fc60f0374d3
+Y
+)src/test/java/pages/CheckoutInfoPage.java,2\5\25473ff284f33fe3fe874327ff67b4c6841ad069
+P
+ src/test/java/Base/TestUtil.java,1\a\1a2ae8a6b9dd4b8c6cb84a1fb212416dcf63a187
+R
+"src/test/java/pages/LoginPage.java,2\f\2febc867dad266b12f3cf09596e572e0dcf37dbf
+Q
+!src/test/java/pages/CartPage.java,9\c\9ce7e1e9f82d450fc521dc73c47f682161dd5e91
+]
+-src/test/java/pages/CheckoutCompletePage.java,6\0\605c83f94edd453858a6ff061e6c40ce8ae939a0
+^
+.src/test/java/selenium/tests/CheckoutTest.java,1\e\1e71892f99498f6d54d3cad981e2b5e16d5de8b9
+T
+$src/test/java/pages/ProductPage.java,d\3\d3d1f0b73a437016b8e297cf4d10e792b2c6b213
+`
+0src/test/java/selenium/tests/ProductAddTest.java,d\2\d234d681e8e6512bb92826c34542c705008389f9
+a
+1src/test/java/selenium/tests/ProblemUserTest.java,4\c\4c338fc4bbc10193e06baef3398b48601c3e83fd
+g
+7src/test/java/selenium/tests/LoginTestUnsuccessful.java,3\4\34ecbd4a6b83eca947482a52fe6522c71862ecae
